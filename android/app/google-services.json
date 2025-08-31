@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727474878889",
+    "project_id": "dav-61b0d",
+    "storage_bucket": "dav-61b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727474878889:android:72ff4649094204e5cb2cb8",
+        "android_client_info": {
+          "package_name": "com.davbotprem.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeYrc-XXXXX-REPLACE-WITH-REAL-KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
