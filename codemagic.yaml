@@ -4,8 +4,6 @@ workflows:
     max_build_duration: 60
     environment:
       flutter: stable
-      xcode: latest
-      android: latest
     scripts:
       - name: Install dependencies
         script: flutter pub get
@@ -16,4 +14,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - davinnhibos75@gmail.com
+          - "davinnhibos75@gmail.com"
